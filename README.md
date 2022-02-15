@@ -1,5 +1,5 @@
-# Car-Number-Plate-Detection-OpenCV-Python
-Detecting Number plate from images of cars using openCV
+# Detect plates
+Detectar placas com OpenCV
 
 ## Original Car Picture
 ![alt text](https://github.com/Aqsa-K/Car-Number-Plate-Detection-OpenCV-Python/blob/master/pictures/Car_Image_1.jpg?raw=true)
